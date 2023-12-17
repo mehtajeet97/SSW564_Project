@@ -1,5 +1,5 @@
-## SSW564 PROJECT ##
-### Topic : The AI Educators ###
+## The AI Educators ##
+### SSW564 PROJECT ###
 
 
 Project from Fall 2023 SSW 564 Software Requirements Analysis and Engineering class of Stevens Institute of Technology
