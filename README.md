@@ -7,11 +7,14 @@ Project from Fall 2023 SSW 564 Software Requirements Analysis and Engineering cl
 <br>
 Project Proposal:
 <br>
-Check File - 'SSW-564-Final_Project.pdf'
+Check File - 'Project_Proposal.pdf'
 <br>
 <br>
 Project Report:
 <br>
-Check Files - 'SSW-564-Report-Draft-1.docx'
+Check Files - 'Report_Final.pdf'
 <br>
 <br>
+Project Presentation:
+<br>
+Check Files - 'The_AI_Educators.pptx'
