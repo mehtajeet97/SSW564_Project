@@ -22,4 +22,4 @@ Check Files - 'The_AI_Educators.pptx'
 <br>
 The Rest:
 <br>
-Intermediate Files
+Intermediate Files that were used for generating the final outcome
