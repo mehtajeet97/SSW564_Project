@@ -22,4 +22,4 @@ Check Files - 'The_AI_Educators.pptx'
 <br>
 The Rest:
 <br>
-Intermediate Files that were part of project execution
+Intermediate files that were needed to complete the project
